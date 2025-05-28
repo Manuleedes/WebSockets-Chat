@@ -1,0 +1,13 @@
+spring:
+  data:
+    mongodb:
+      username: lidigu
+      password: lidigu
+      host: localhost
+      port: 27017
+      database: chatbase
+      authentication-database: admin
+
+server:
+  port: 8088
+
